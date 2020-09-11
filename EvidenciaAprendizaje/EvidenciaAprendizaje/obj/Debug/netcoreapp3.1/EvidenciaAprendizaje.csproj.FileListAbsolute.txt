@@ -1,0 +1,13 @@
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\netcoreapp3.1\EvidenciaAprendizaje.exe
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\netcoreapp3.1\EvidenciaAprendizaje.deps.json
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\netcoreapp3.1\EvidenciaAprendizaje.runtimeconfig.json
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\netcoreapp3.1\EvidenciaAprendizaje.runtimeconfig.dev.json
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\netcoreapp3.1\EvidenciaAprendizaje.dll
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\netcoreapp3.1\EvidenciaAprendizaje.pdb
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\netcoreapp3.1\EvidenciaAprendizaje.csprojAssemblyReference.cache
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\netcoreapp3.1\EvidenciaAprendizaje.AssemblyInfoInputs.cache
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\netcoreapp3.1\EvidenciaAprendizaje.AssemblyInfo.cs
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\netcoreapp3.1\EvidenciaAprendizaje.csproj.CoreCompileInputs.cache
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\netcoreapp3.1\EvidenciaAprendizaje.dll
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\netcoreapp3.1\EvidenciaAprendizaje.pdb
+C:\Users\Codellege\source\repos\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\netcoreapp3.1\EvidenciaAprendizaje.genruntimeconfig.cache
